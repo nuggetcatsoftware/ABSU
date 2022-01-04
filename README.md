@@ -8,5 +8,5 @@ Currently active
 1. Install python 3.6 (64bit)
 2. Run this line in your terminal
 ``` python -m setup.py install ```
-3. Enter your discord token into the FIRST LINE of your disc_tok.txt
+3. Enter your discord token into the "" of variable discord_token
 4. Run run.py 
